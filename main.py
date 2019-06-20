@@ -60,7 +60,7 @@ def main():
                         color=(0, 255, 0),
                     )
 
-        # Dislplay the resutling frame
+        # Display the resulting frame
         cv2.imshow("frame", frame)
 
         # Wait for q to close the app
